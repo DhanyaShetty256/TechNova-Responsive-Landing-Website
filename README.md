@@ -30,12 +30,13 @@ YR-NOVATECH-Task-2/
 └── README.md
 
 ```
-Approach
+
+## Approach
 
 The website was developed using a clean and simple structure with HTML for the page content, CSS for styling and responsive layouts, and JavaScript for contact form validation.
 
 CSS media queries were used to make the website responsive across different screen sizes. The contact form includes client-side validation for the name, email address, and message fields.
 
-Author
+## Author
 
 Dhanya Shetty
